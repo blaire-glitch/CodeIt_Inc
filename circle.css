@@ -1,0 +1,15 @@
+/* Style for the container of the uploaded image */
+.image-container {
+    width: 150px; /* Adjust width as needed */
+    height: 150px; /* Adjust height as needed */
+    overflow: hidden;
+    border-radius: 50%; /* Make the container round */
+    border: 2px solid #ccc; /* Add a border */
+}
+
+/* Style for the uploaded image */
+.uploaded-image {
+    width: 100%; /* Make the image fill the container */
+    height: 100%; /* Make the image fill the container */
+    object-fit: cover; /* Ensure the image covers the container */
+}

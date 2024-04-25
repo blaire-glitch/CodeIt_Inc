@@ -1,0 +1,30 @@
+/* Style for h1 */
+h1 {
+    color: #7bddd0; /* Blue... color */
+}
+
+/* Style for h2 */
+h2 {
+    color: #28a745; /* Green color */
+}
+
+/* Style for h3 */
+h3 {
+    color: #dc3545; /* Red color */
+}
+
+/* Style for h4 */
+h4 {
+    color: #ffc107; /* Yellow color */
+}
+
+/* Style for h5 */
+h5 {
+    color: #6610f2; /* Purple color */
+}
+
+/* Style for h6 */
+h6 {
+    color: #17a2b8; /* Cyan color */
+}
+

@@ -1,0 +1,36 @@
+#upload {
+    padding: 50px 20px;
+}
+
+#upload h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+#upload p {
+    margin-bottom: 20px;
+}
+
+#upload form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+#upload form input[type="file"] {
+    display: block;
+    margin-bottom: 20px;
+}
+
+#upload form button[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#upload form button[type="submit"]:hover {
+    background-color: #0056b3;
+}
